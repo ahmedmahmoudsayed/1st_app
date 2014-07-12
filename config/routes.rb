@@ -1,6 +1,12 @@
 Rails.application.routes.draw do
+  resources :books
+
+  resources :authors
+
+  resources :libraries
+
   get "static_pages/7amada"
-  get "static_pages//"
+  #get "static_pages//"
   get "static_pages/help"
   get "static_pages/home"
   get "static_pages/about"
