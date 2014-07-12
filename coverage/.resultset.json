@@ -1,0 +1,51 @@
+{
+  "RSpec": {
+    "coverage": {
+      "C:/Sites/my_app/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "C:/Sites/my_app/app/helpers/authors_helper.rb": [
+        1,
+        null
+      ],
+      "C:/Sites/my_app/app/helpers/books_helper.rb": [
+        1,
+        null
+      ],
+      "C:/Sites/my_app/app/helpers/libraries_helper.rb": [
+        1,
+        null
+      ],
+      "C:/Sites/my_app/app/helpers/static_page_helper.rb": [
+        1,
+        null
+      ],
+      "C:/Sites/my_app/app/helpers/static_pages_helper.rb": [
+        1,
+        null
+      ],
+      "C:/Sites/my_app/app/helpers/staticpage_helper.rb": [
+        1,
+        null
+      ],
+      "C:/Sites/my_app/app/controllers/static_pages_controller.rb": [
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null
+      ],
+      "C:/Sites/my_app/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1405158503
+  }
+}
