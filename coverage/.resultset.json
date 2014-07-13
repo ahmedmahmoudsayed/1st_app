@@ -29,23 +29,19 @@
         1,
         null
       ],
-      "C:/Sites/my_app/app/controllers/static_pages_controller.rb": [
+      "C:/Sites/my_app/app/models/user.rb": [
         1,
         1,
-        null,
-        null,
         1,
         null,
-        null
-      ],
-      "C:/Sites/my_app/app/controllers/application_controller.rb": [
+        1,
+        1,
         1,
         null,
         null,
-        1,
         null
       ]
     },
-    "timestamp": 1405157821
+    "timestamp": 1405294975
   }
 }
